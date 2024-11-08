@@ -1,2 +1,12 @@
 # CodeClauseInternshipProject1
-This project predicts the genres of movies based on their plot summaries and additional features using natural language processing (NLP) and machine learning. It involves preprocessing text data, extracting features with TF-IDF, and training a multi-label classification model with logistic regression to classify movies into multiple genres.
+### Summary of the Project Code
+1. **Customer Segmentation:**
+  * Cleans and preprocesses the online retail data.
+  * Computes Recency, Frequency, and Monetary values for customer segmentation.
+  * Applies K-Means clustering to create customer segments.
+
+2. **Sentiment Analysis:**
+
+  * Cleans and preprocesses customer review text.
+  * Uses TF-IDF for feature extraction.
+  * Trains a logistic regression model to classify reviews as positive or negative.
